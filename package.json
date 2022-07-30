@@ -1,6 +1,6 @@
 {
-  "homepage": "https;//gb1383.github.io/myproject",
-  "name": "gobind-react-website",
+  "homepage": "http://gb1383.github.io/myproject",
+  "name": "react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
